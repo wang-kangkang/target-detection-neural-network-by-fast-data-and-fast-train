@@ -1,5 +1,7 @@
 # target-detection-neural-network-by-fast-data-and-fast-train
 my target detection neural network only use dozens of image, and you can train fastly a caffemodel to detection your target
+
+
 I use windows caffe,if you are familiar with linux caffe,you can use my network and data to train in linux by yourself.
 
 
