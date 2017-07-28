@@ -1,0 +1,1 @@
+run collect.m, and you can get train data and test data
